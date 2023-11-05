@@ -88,7 +88,7 @@ fun HomeScreen(
         Spacer(modifier = Modifier.height(MediumPadding1))
 
         ArticleList(
-            modifier = Modifier.padding(horizontal = 10.dp),
+            modifier = Modifier.padding(horizontal = 3.dp),
             articles = articles,
             onClick = {
                 navigateToDetails(it)

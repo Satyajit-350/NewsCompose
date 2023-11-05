@@ -27,8 +27,8 @@ fun SearchScreen(
         modifier = Modifier
             .padding(
                 top = MediumPadding1,
-                start = 10.dp,
-                end = 10.dp
+                start = 5.dp,
+                end = 5.dp
             )
             .statusBarsPadding()
             .fillMaxSize()

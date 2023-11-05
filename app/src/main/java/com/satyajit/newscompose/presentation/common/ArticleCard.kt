@@ -42,7 +42,7 @@ fun ArticleCard(
     val context = LocalContext.current
 
     Row(
-        modifier = modifier.padding(horizontal = 8.dp).clickable {
+        modifier = modifier.padding(horizontal = 5.dp).clickable {
             onClick()
         }
     ) {

@@ -30,13 +30,14 @@ fun BookmarkScreen(
             .statusBarsPadding()
             .padding(
                 top = 15.dp,
-                start = 15.dp,
-                end = 15.dp
+                start = 5.dp,
+                end = 5.dp
             )
     ) {
 
         Text(
-            text = "Bookmark",
+            modifier = Modifier.padding(horizontal = 10.dp),
+            text = "Bookmarks",
             style = MaterialTheme.typography.displaySmall.copy(fontWeight = FontWeight.Bold),
             color = colorResource(id = R.color.text_title)
         )
