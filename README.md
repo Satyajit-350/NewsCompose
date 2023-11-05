@@ -1,2 +1,4 @@
+<img src="screenshots/app_logo.png"/>
+
 # NewsCompose
-News App made with Jetpack Compose
+A simple News App built with [Jetpack Compose][compose]
