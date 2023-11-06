@@ -19,7 +19,7 @@ A simple News Application built with Jetpack Compose. This app follows a clean a
  ## Application Install
 You can Install and test the app from below 👇
 
-[![NewsCompose](https://img.shields.io/badge/NewsCompose-APK-silver.svg?style=for-the-badge&logo=android)](https://github.com/Satyajit-350/Map-Explore/releases/tag/1.0.0)
+[![NewsCompose](https://img.shields.io/badge/NewsCompose-APK-silver.svg?style=for-the-badge&logo=android)](https://github.com/Satyajit-350/NewsCompose/releases/tag/1.0.0)
 
 ## Build and Run Instructions
 
